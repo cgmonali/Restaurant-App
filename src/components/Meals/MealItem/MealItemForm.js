@@ -13,7 +13,7 @@ const MealItemForm = (props) => {
           max: '5',
           step: '1',
           defaultValue: '1',
-        }}
+        }}//these are built in input element types
       />
       <button>+ Add</button>
     </form>
